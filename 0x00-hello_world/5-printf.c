@@ -2,7 +2,7 @@
 /**
  * main - A program that prints a line with printf function
  * Description: 'the program prints a line with printf'
- * Return : 0 (always)
+ * Return: 0 (always)
  */
 int main(void)
 {
