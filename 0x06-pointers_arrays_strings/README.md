@@ -1,0 +1,1 @@
+more pointers n arrays
